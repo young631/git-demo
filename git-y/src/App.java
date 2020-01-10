@@ -9,6 +9,9 @@ public class App {
 		System.out.println("fsdfsdfsdfdsfsdfwoeirw주빈이!!!!!!1");
 
 		System.out.println("fsdfsdfsdfdsfsdfwoeirw주빈이!!!!!!1");
+		
+		System.out.println("아아ㅏ영수정~~~!@~!@^%&*#@$%^&");
+		System.out.println("이히히히");
 
 	
 	}
